@@ -75,3 +75,33 @@ The app could provide a list of recommended books with brief explanations of why
 - **Organisation of your files**: How well-organised is your work? Is it easy to navigate through your code files and data, to understand and read your code ? We expect you to hand over a project to us, preferably we would like that project to be available online though GitHub or Gitlab. Keep in mind that this can be a showcase of your abilities to potential recruiters.
 - **Live presentation of your work** Can you explain your project clearly to others? Present your idea, the data, the model and the results and all the steps in between that you find interesting and relevant.
 
+
+
+## Possible AI models to use: 
+go to [HuggingFace](https://huggingface.co/models), You can create a free account and try most models on their servers.
+
+#### Natural Language Processing (NLP) Models:
+- [Language Identification](https://huggingface.co/facebook/fasttext-language-identification)
+- [Named entity recognition (NER)](https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english?text=My+name+is+Sarah+and+I+live+in+London) : can be used to identify people, organizations, locations, dates, products, countries, currencies, etc.
+- [Question answering](https://huggingface.co/deepset/roberta-base-squad2?context=A+witch+is+a+figure+often+depicted+as+possessing+magical+powers%2C+typically+associated+with+casting+spells%2C+brewing+potions%2C+and+communing+with+the+supernatural.+Depending+on+the+tale%2C+witches+can+be+benevolent+healers+or+malevolent+beings%2C+embodying+the+mysterious+and+enigmatic+forces+of+nature+and+the+unknown.&text=Who+is+the+main+character+%3F): Given a text, answers questions
+- [Sentence similarity](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) Can be used to compare sentence and compute their similarities.
+- [Classification](https://huggingface.co/tasksource/deberta-small-long-nli?candidate_labels=IT%2C+slavery%2C+hypnosis&multi_class=true&text=Neo%2C+a+computer+hacker%2C+discovers+that+the+world+he+lives+in+is+a+simulated+reality+created+by+machines+to+control+humanity%2C+leading+him+to+join+a+rebellion+against+the+system.+As+he+learns+to+manipulate+the+Matrix%2C+Neo+becomes+central+to+the+fight+for+human+freedom%2C+challenging+the+very+nature+of+reality.): Given a list of categories and a text, compute a simalarity score for the text in relation with each category.
+- [Sentiment analysis](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) Compute the polarity of a given text (Positive, neutral and negative)
+- [Summarization](https://huggingface.co/facebook/bart-large-cnn) Given a text and a length, summarize the text to the requested length
+- Text generation: the newest open-source models, such as LLama 3.1, or Mistral are (probably) too big to run on your machine. You could either run them on the cloud via an API (see [groqcloud](https://console.groq.com/playground)) or run older models like GPT2.
+
+#### Other models, for example:
+- [Speech-to-text](https://huggingface.co/openai/whisper-large-v3): To convert audio to text
+- Image analysis: To categorize or describe image. 
+
+## Possible ways to acquire data:
+- **Public datasets**:
+  - **[Kaggle](https://www.kaggle.com/datasets)**: A vast platform offering datasets across various domains, along with tools for data exploration and analysis.
+  - **[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)**: A well-known repository providing a wide range of datasets for different machine learning tasks.
+  - **[European Union Open Data Portal](https://data.europa.eu/euodp/en/data)**: A portal offering datasets from the European Union on diverse topics like economics, environment, and education.
+  - **[World Bank Open Data](https://data.worldbank.org/)**: Provides access to global development data, including economic, social, and environmental statistics.
+- **Public APIs**:
+  - **[Data.gouv.fr API](https://www.data.gouv.fr/en/apidoc/)**: Offers access to a vast collection of datasets provided by the French government, covering various sectors such as healthcare, education, and public services.
+  - **[List of free API](https://github.com/public-apis/public-apis)**
+- **Web scraping** is the process of automatically extracting data from websites. We'll explore the libraries f BeautifulSoup, Scrapy, and Selenium. It's important to be aware of the legal and ethical considerations.
+
