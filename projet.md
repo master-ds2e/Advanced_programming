@@ -94,7 +94,7 @@ go to [HuggingFace](https://huggingface.co/models), You can create a free accoun
 - [Speech-to-text](https://huggingface.co/openai/whisper-large-v3): To convert audio to text
 - Image analysis: To categorize or describe image. 
 
-## Possible ways to acquire data:
+## Possible ways to acquire data:
 - **Public datasets**:
   - **[Kaggle](https://www.kaggle.com/datasets)**: A vast platform offering datasets across various domains, along with tools for data exploration and analysis.
   - **[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)**: A well-known repository providing a wide range of datasets for different machine learning tasks.
