@@ -1,6 +1,6 @@
 # Projet noté
 
-### By Kévin Michoud and Pierre Pelletier.
+### By Kévin Michoud and Pierre Pelletier.
 
 By group of 3.
 
@@ -47,7 +47,7 @@ The app could provide a list of recommended books with brief explanations of why
 - **AI**: Natural language processing (NLP) models to analyze content similarity and generate book recommendations.
 
 
-## How is the project graded: 
+## How is the project graded: 
 
 ### 1. Data acquisition
 - **Quality of the data acquired** 
@@ -97,6 +97,7 @@ go to [HuggingFace](https://huggingface.co/models), You can create a free accoun
 ## Possible ways to acquire data:
 - **Public datasets**:
   - **[Kaggle](https://www.kaggle.com/datasets)**: A vast platform offering datasets across various domains, along with tools for data exploration and analysis.
+    - See this [dataset](https://www.kaggle.com/datasets/sayankr007/cyber-bullying-data-for-multi-label-classification) and <u>[code](https://www.kaggle.com/code/marcelooa/cyberbullying-classification-using-bert/notebook)</u> about hate speech detection
   - **[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)**: A well-known repository providing a wide range of datasets for different machine learning tasks.
   - **[European Union Open Data Portal](https://data.europa.eu/euodp/en/data)**: A portal offering datasets from the European Union on diverse topics like economics, environment, and education.
   - **[World Bank Open Data](https://data.worldbank.org/)**: Provides access to global development data, including economic, social, and environmental statistics.
