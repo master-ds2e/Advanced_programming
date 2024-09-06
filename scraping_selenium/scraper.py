@@ -30,9 +30,11 @@ def scrape_videos(driver, url):
         EC.element_to_be_clickable((By.XPATH, REJECT_BUTTON_XPATH))
     )
     reject_all.click()
+    logger.info("Clicked on reject all cookies")
 
     # Scroll to load all videos
     scroll_to_load_all_videos(driver)
+    logger.info("Scrolled to load all videos")
 
     return extract_video_data(driver)
 
@@ -51,13 +53,14 @@ def scroll_to_load_all_videos(driver):
 def extract_video_data(driver):
     lst_videos = []
     all_vignette = driver.find_elements(By.ID, 'dismissible')
+    logger.info(f"Found {len(all_vignette)} videos")
     for vign in all_vignette:
         try:
             link = vign.find_element(By.TAG_NAME, "a").get_attribute("href")
             title = vign.find_element(By.ID, "video-title").text
-            # type_video = transform_type_videos(title)
             duration_str = vign.find_element(By.TAG_NAME, "ytd-thumbnail-overlay-time-status-renderer").text
             duration = parse_duration(duration_str)
+
             view_time = vign.find_element(By.ID, 'metadata-line').text
             views, date_str = view_time.split("\n")
             nb_views = clean_view_count(views.split(" ")[0])
