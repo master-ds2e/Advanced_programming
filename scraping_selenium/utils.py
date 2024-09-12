@@ -29,8 +29,33 @@ def clean_view_count(view: str) -> int:
     return int(num * dic_unit[unit])
 
 
+from datetime import datetime, timedelta
+import re
+
 def transform_ago_date(ago_str: str) -> datetime:
-    pattern = r"(?P<quantity>\d+)\s(?P<unit>minute|minutes|hour|hours|day|days|month|months|year|years) ago"
+    """
+    Convert a string representing a relative time in the past to a datetime object.
+
+    This function takes a string in the format "X unit ago" where X is a number and
+    unit is one of: minute(s), hour(s), day(s), week(s), month(s), or year(s).
+    It then calculates and returns the corresponding datetime.
+
+    Args:
+        ago_str (str): A string representing a relative time in the past.
+
+    Returns:
+        datetime: The calculated datetime object.
+
+    Raises:
+        ValueError: If the input string format is invalid or the unit is unsupported.
+
+    Examples:
+        >>> transform_ago_date("5 minutes ago")
+        datetime(2023, 9, 6, 14, 55, 0)  # assuming current time is 2023-09-06 15:00:00
+        >>> transform_ago_date("2 weeks ago")
+        datetime(2023, 8, 23, 15, 0, 0)  # assuming current time is 2023-09-06 15:00:00
+    """
+    pattern = r"(?P<quantity>\d+)\s(?P<unit>minute|minutes|hour|hours|day|days|week|weeks|month|months|year|years) ago"
     match = re.match(pattern, ago_str)
 
     if not match:
@@ -45,6 +70,8 @@ def transform_ago_date(ago_str: str) -> datetime:
         delta = timedelta(hours=quantity)
     elif unit in ["day", "days"]:
         delta = timedelta(days=quantity)
+    elif unit in ["week", "weeks"]:
+        delta = timedelta(weeks=quantity)
     elif unit in ["month", "months"]:
         delta = timedelta(days=quantity * 30)  # Approximate
     elif unit in ["year", "years"]:

@@ -1,417 +1,344 @@
-2024-08-24 17:20:52,677 - scraper - INFO - LOGGING for vignette: 2:52:27
-Twilight | ContraPoints
-4.3M views
+2024-09-06 14:11:08,315 - __main__ - INFO - Scraping videos from @fatal_breakdown
+2024-09-06 14:11:09,972 - __main__ - INFO - Scraping videos
+2024-09-06 14:11:12,532 - scraper - INFO - Clicked on reject all cookies
+2024-09-06 14:11:16,573 - scraper - INFO - Scrolled to load all videos
+2024-09-06 14:11:16,578 - scraper - INFO - Found 26 videos
+2024-09-06 14:11:16,631 - scraper - INFO - LOGGING for vignette: 18:29
+Left for dead on Everest | The 1999 Mount Everest Tragedy
+58K views
+12 days ago
+2024-09-06 14:11:16,631 - scraper - INFO - ---
+2024-09-06 14:11:16,631 - scraper - INFO - Link: https://www.youtube.com/watch?v=pLWVIsOpkfQ
+2024-09-06 14:11:16,631 - scraper - INFO - Title: Left for dead on Everest | The 1999 Mount Everest Tragedy
+2024-09-06 14:11:16,631 - scraper - INFO - Duration String: 18:29
+2024-09-06 14:11:16,631 - scraper - INFO - Duration: 0:18:29
+2024-09-06 14:11:16,631 - scraper - INFO - View Time: 58K views
+12 days ago
+2024-09-06 14:11:16,631 - scraper - INFO - Views: 58000
+2024-09-06 14:11:16,631 - scraper - INFO - Date: 2024-08-25 14:11:16.604796
+2024-09-06 14:11:16,689 - scraper - INFO - LOGGING for vignette: 10:38
+Divers trapped after tragic mistake | The Waage Drill II Accident
+35K views
+3 weeks ago
+2024-09-06 14:11:16,689 - scraper - INFO - ---
+2024-09-06 14:11:16,689 - scraper - INFO - Link: https://www.youtube.com/watch?v=edjKQua6u0I
+2024-09-06 14:11:16,689 - scraper - INFO - Title: Divers trapped after tragic mistake | The Waage Drill II Accident
+2024-09-06 14:11:16,689 - scraper - INFO - Duration String: 10:38
+2024-09-06 14:11:16,689 - scraper - INFO - Duration: 0:10:38
+2024-09-06 14:11:16,689 - scraper - INFO - View Time: 35K views
+3 weeks ago
+2024-09-06 14:11:16,689 - scraper - INFO - Views: 35000
+2024-09-06 14:11:16,689 - scraper - INFO - Date: 2024-08-16 14:11:16.658062
+2024-09-06 14:11:16,741 - scraper - INFO - LOGGING for vignette: 11:09
+Dead end traps cave divers | The Jacob’s Well Diving Tragedy
+571K views
+1 month ago
+2024-09-06 14:11:16,741 - scraper - INFO - ---
+2024-09-06 14:11:16,741 - scraper - INFO - Link: https://www.youtube.com/watch?v=Fal_E_eJxD4
+2024-09-06 14:11:16,741 - scraper - INFO - Title: Dead end traps cave divers | The Jacob’s Well Diving Tragedy
+2024-09-06 14:11:16,741 - scraper - INFO - Duration String: 11:09
+2024-09-06 14:11:16,741 - scraper - INFO - Duration: 0:11:09
+2024-09-06 14:11:16,741 - scraper - INFO - View Time: 571K views
+1 month ago
+2024-09-06 14:11:16,741 - scraper - INFO - Views: 571000
+2024-09-06 14:11:16,741 - scraper - INFO - Date: 2024-08-07 14:11:16.717594
+2024-09-06 14:11:16,797 - scraper - INFO - LOGGING for vignette: 14:20
+Missing 9 months underground | The Veryovkina Cave Tragedy
+367K views
+2 months ago
+2024-09-06 14:11:16,797 - scraper - INFO - ---
+2024-09-06 14:11:16,797 - scraper - INFO - Link: https://www.youtube.com/watch?v=eFOiob7wR5E
+2024-09-06 14:11:16,797 - scraper - INFO - Title: Missing 9 months underground | The Veryovkina Cave Tragedy
+2024-09-06 14:11:16,797 - scraper - INFO - Duration String: 14:20
+2024-09-06 14:11:16,797 - scraper - INFO - Duration: 0:14:20
+2024-09-06 14:11:16,797 - scraper - INFO - View Time: 367K views
+2 months ago
+2024-09-06 14:11:16,797 - scraper - INFO - Views: 367000
+2024-09-06 14:11:16,797 - scraper - INFO - Date: 2024-07-08 14:11:16.768553
+2024-09-06 14:11:16,847 - scraper - INFO - LOGGING for vignette: 15:32
+Desperate fight to escape sinking ship | The Jascon-4 Tugboat Accident
+73K views
+2 months ago
+2024-09-06 14:11:16,847 - scraper - INFO - ---
+2024-09-06 14:11:16,847 - scraper - INFO - Link: https://www.youtube.com/watch?v=vxq5qQvaQPI
+2024-09-06 14:11:16,847 - scraper - INFO - Title: Desperate fight to escape sinking ship | The Jascon-4 Tugboat Accident
+2024-09-06 14:11:16,847 - scraper - INFO - Duration String: 15:32
+2024-09-06 14:11:16,847 - scraper - INFO - Duration: 0:15:32
+2024-09-06 14:11:16,847 - scraper - INFO - View Time: 73K views
+2 months ago
+2024-09-06 14:11:16,847 - scraper - INFO - Views: 73000
+2024-09-06 14:11:16,847 - scraper - INFO - Date: 2024-07-08 14:11:16.824764
+2024-09-06 14:11:16,895 - scraper - INFO - LOGGING for vignette: 14:13
+Cave diver trapped forever | The Agen Allwedd Tragedy
+647K views
+3 months ago
+2024-09-06 14:11:16,895 - scraper - INFO - ---
+2024-09-06 14:11:16,895 - scraper - INFO - Link: https://www.youtube.com/watch?v=rh8uuiUE5JQ
+2024-09-06 14:11:16,895 - scraper - INFO - Title: Cave diver trapped forever | The Agen Allwedd Tragedy
+2024-09-06 14:11:16,895 - scraper - INFO - Duration String: 14:13
+2024-09-06 14:11:16,895 - scraper - INFO - Duration: 0:14:13
+2024-09-06 14:11:16,895 - scraper - INFO - View Time: 647K views
+3 months ago
+2024-09-06 14:11:16,895 - scraper - INFO - Views: 647000
+2024-09-06 14:11:16,895 - scraper - INFO - Date: 2024-06-08 14:11:16.871974
+2024-09-06 14:11:16,949 - scraper - INFO - LOGGING for vignette: 11:14
+Workers trapped in deadly flood | The Sayano Shushenskaya Dam Accident
+108K views
+4 months ago
+2024-09-06 14:11:16,949 - scraper - INFO - ---
+2024-09-06 14:11:16,949 - scraper - INFO - Link: https://www.youtube.com/watch?v=htxHdI0Si1E
+2024-09-06 14:11:16,949 - scraper - INFO - Title: Workers trapped in deadly flood | The Sayano Shushenskaya Dam Accident
+2024-09-06 14:11:16,949 - scraper - INFO - Duration String: 11:14
+2024-09-06 14:11:16,949 - scraper - INFO - Duration: 0:11:14
+2024-09-06 14:11:16,949 - scraper - INFO - View Time: 108K views
+4 months ago
+2024-09-06 14:11:16,949 - scraper - INFO - Views: 108000
+2024-09-06 14:11:16,949 - scraper - INFO - Date: 2024-05-09 14:11:16.926215
+2024-09-06 14:11:16,997 - scraper - INFO - LOGGING for vignette: 8:39
+Missing 23 days | The Harley Dilly Story
+335K views
+4 months ago
+2024-09-06 14:11:16,997 - scraper - INFO - ---
+2024-09-06 14:11:16,997 - scraper - INFO - Link: https://www.youtube.com/watch?v=z0mF4IIh87c
+2024-09-06 14:11:16,997 - scraper - INFO - Title: Missing 23 days | The Harley Dilly Story
+2024-09-06 14:11:16,997 - scraper - INFO - Duration String: 8:39
+2024-09-06 14:11:16,997 - scraper - INFO - Duration: 0:08:39
+2024-09-06 14:11:16,997 - scraper - INFO - View Time: 335K views
+4 months ago
+2024-09-06 14:11:16,997 - scraper - INFO - Views: 335000
+2024-09-06 14:11:16,997 - scraper - INFO - Date: 2024-05-09 14:11:16.974980
+2024-09-06 14:11:17,012 - utils - ERROR - Invalid duration format . Expected MM:SS, HH:MM:SS, or DD:HH:MM:SS.
+2024-09-06 14:11:17,044 - scraper - INFO - LOGGING for vignette: Drowned in a narrow tunnel | Mossdale Cave Tragedy
+758K views
 5 months ago
-2024-08-24 17:20:52,678 - scraper - INFO - ---
-2024-08-24 17:20:52,678 - scraper - INFO - Link: https://www.youtube.com/watch?v=bqloPw5wp48
-2024-08-24 17:20:52,678 - scraper - INFO - Title: Twilight | ContraPoints
-2024-08-24 17:20:52,678 - scraper - INFO - Duration String: 2:52:27
-2024-08-24 17:20:52,678 - scraper - INFO - Duration: 2:52:27
-2024-08-24 17:20:52,678 - scraper - INFO - View Time: 4.3M views
+2024-09-06 14:11:17,044 - scraper - INFO - ---
+2024-09-06 14:11:17,044 - scraper - INFO - Link: https://www.youtube.com/watch?v=FI9jlv6Fug8
+2024-09-06 14:11:17,044 - scraper - INFO - Title: Drowned in a narrow tunnel | Mossdale Cave Tragedy
+2024-09-06 14:11:17,044 - scraper - INFO - Duration String: 
+2024-09-06 14:11:17,044 - scraper - INFO - Duration: 0:00:00
+2024-09-06 14:11:17,044 - scraper - INFO - View Time: 758K views
 5 months ago
-2024-08-24 17:20:52,678 - scraper - INFO - Views: 4300000
-2024-08-24 17:20:52,678 - scraper - INFO - Date: 2024-03-27 17:20:52.639158
-2024-08-24 17:20:52,739 - scraper - INFO - LOGGING for vignette: 1:55:04
-The Witch Trials of J.K. Rowling | ContraPoints
-5.3M views
-1 year ago
-2024-08-24 17:20:52,739 - scraper - INFO - ---
-2024-08-24 17:20:52,739 - scraper - INFO - Link: https://www.youtube.com/watch?v=EmT0i0xG6zg
-2024-08-24 17:20:52,739 - scraper - INFO - Title: The Witch Trials of J.K. Rowling | ContraPoints
-2024-08-24 17:20:52,739 - scraper - INFO - Duration String: 1:55:04
-2024-08-24 17:20:52,739 - scraper - INFO - Duration: 1:55:04
-2024-08-24 17:20:52,739 - scraper - INFO - View Time: 5.3M views
-1 year ago
-2024-08-24 17:20:52,739 - scraper - INFO - Views: 5300000
-2024-08-24 17:20:52,739 - scraper - INFO - Date: 2023-08-25 17:20:52.713457
-2024-08-24 17:20:52,776 - scraper - INFO - LOGGING for vignette: 57:34
-The Hunger | ContraPoints
-2.8M views
-2 years ago
-2024-08-24 17:20:52,776 - scraper - INFO - ---
-2024-08-24 17:20:52,776 - scraper - INFO - Link: https://www.youtube.com/watch?v=RTRT794IQBg
-2024-08-24 17:20:52,776 - scraper - INFO - Title: The Hunger | ContraPoints
-2024-08-24 17:20:52,776 - scraper - INFO - Duration String: 57:34
-2024-08-24 17:20:52,776 - scraper - INFO - Duration: 0:57:34
-2024-08-24 17:20:52,776 - scraper - INFO - View Time: 2.8M views
-2 years ago
-2024-08-24 17:20:52,776 - scraper - INFO - Views: 2800000
-2024-08-24 17:20:52,776 - scraper - INFO - Date: 2022-08-25 17:20:52.758539
-2024-08-24 17:20:52,813 - scraper - INFO - LOGGING for vignette: 1:48:16
-Envy | ContraPoints
-5.9M views
-3 years ago
-2024-08-24 17:20:52,814 - scraper - INFO - ---
-2024-08-24 17:20:52,814 - scraper - INFO - Link: https://www.youtube.com/watch?v=aPhrTOg1RUk
-2024-08-24 17:20:52,814 - scraper - INFO - Title: Envy | ContraPoints
-2024-08-24 17:20:52,814 - scraper - INFO - Duration String: 1:48:16
-2024-08-24 17:20:52,814 - scraper - INFO - Duration: 1:48:16
-2024-08-24 17:20:52,814 - scraper - INFO - View Time: 5.9M views
-3 years ago
-2024-08-24 17:20:52,814 - scraper - INFO - Views: 5900000
-2024-08-24 17:20:52,814 - scraper - INFO - Date: 2021-08-25 17:20:52.794783
-2024-08-24 17:20:52,851 - scraper - INFO - LOGGING for vignette: 1:29:45
-J.K. Rowling | ContraPoints
-7.2M views
-3 years ago
-2024-08-24 17:20:52,851 - scraper - INFO - ---
-2024-08-24 17:20:52,851 - scraper - INFO - Link: https://www.youtube.com/watch?v=7gDKbT_l2us
-2024-08-24 17:20:52,851 - scraper - INFO - Title: J.K. Rowling | ContraPoints
-2024-08-24 17:20:52,851 - scraper - INFO - Duration String: 1:29:45
-2024-08-24 17:20:52,851 - scraper - INFO - Duration: 1:29:45
-2024-08-24 17:20:52,851 - scraper - INFO - View Time: 7.2M views
-3 years ago
-2024-08-24 17:20:52,851 - scraper - INFO - Views: 7200000
-2024-08-24 17:20:52,851 - scraper - INFO - Date: 2021-08-25 17:20:52.833138
-2024-08-24 17:20:52,892 - scraper - INFO - LOGGING for vignette: 23:40
-Voting | ContraPoints
-1.8M views
-3 years ago
-2024-08-24 17:20:52,892 - scraper - INFO - ---
-2024-08-24 17:20:52,892 - scraper - INFO - Link: https://www.youtube.com/watch?v=t3Vah8sUFgI
-2024-08-24 17:20:52,892 - scraper - INFO - Title: Voting | ContraPoints
-2024-08-24 17:20:52,892 - scraper - INFO - Duration String: 23:40
-2024-08-24 17:20:52,892 - scraper - INFO - Duration: 0:23:40
-2024-08-24 17:20:52,892 - scraper - INFO - View Time: 1.8M views
-3 years ago
-2024-08-24 17:20:52,892 - scraper - INFO - Views: 1800000
-2024-08-24 17:20:52,892 - scraper - INFO - Date: 2021-08-25 17:20:52.869911
-2024-08-24 17:20:52,932 - scraper - INFO - LOGGING for vignette: 43:04
-Justice | ContraPoints
-3M views
-3 years ago
-2024-08-24 17:20:52,932 - scraper - INFO - ---
-2024-08-24 17:20:52,932 - scraper - INFO - Link: https://www.youtube.com/watch?v=smQsfNw_7V4
-2024-08-24 17:20:52,932 - scraper - INFO - Title: Justice | ContraPoints
-2024-08-24 17:20:52,932 - scraper - INFO - Duration String: 43:04
-2024-08-24 17:20:52,932 - scraper - INFO - Duration: 0:43:04
-2024-08-24 17:20:52,932 - scraper - INFO - View Time: 3M views
-3 years ago
-2024-08-24 17:20:52,932 - scraper - INFO - Views: 3000000
-2024-08-24 17:20:52,932 - scraper - INFO - Date: 2021-08-25 17:20:52.913374
-2024-08-24 17:20:52,969 - scraper - INFO - LOGGING for vignette: 1:23:19
-Cringe | ContraPoints
-4.5M views
-4 years ago
-2024-08-24 17:20:52,969 - scraper - INFO - ---
-2024-08-24 17:20:52,969 - scraper - INFO - Link: https://www.youtube.com/watch?v=vRBsaJPkt2Q
-2024-08-24 17:20:52,969 - scraper - INFO - Title: Cringe | ContraPoints
-2024-08-24 17:20:52,969 - scraper - INFO - Duration String: 1:23:19
-2024-08-24 17:20:52,969 - scraper - INFO - Duration: 1:23:19
-2024-08-24 17:20:52,969 - scraper - INFO - View Time: 4.5M views
-4 years ago
-2024-08-24 17:20:52,969 - scraper - INFO - Views: 4500000
-2024-08-24 17:20:52,969 - scraper - INFO - Date: 2020-08-25 17:20:52.950981
-2024-08-24 17:20:53,004 - scraper - INFO - LOGGING for vignette: 42:03
-Shame | ContraPoints
-3M views
-4 years ago
-2024-08-24 17:20:53,004 - scraper - INFO - ---
-2024-08-24 17:20:53,004 - scraper - INFO - Link: https://www.youtube.com/watch?v=K7WvHTl_Q7I
-2024-08-24 17:20:53,004 - scraper - INFO - Title: Shame | ContraPoints
-2024-08-24 17:20:53,004 - scraper - INFO - Duration String: 42:03
-2024-08-24 17:20:53,004 - scraper - INFO - Duration: 0:42:03
-2024-08-24 17:20:53,004 - scraper - INFO - View Time: 3M views
-4 years ago
-2024-08-24 17:20:53,004 - scraper - INFO - Views: 3000000
-2024-08-24 17:20:53,004 - scraper - INFO - Date: 2020-08-25 17:20:52.986291
-2024-08-24 17:20:53,045 - scraper - INFO - LOGGING for vignette: 1:40:28
-Canceling | ContraPoints
-5.7M views
-4 years ago
-2024-08-24 17:20:53,045 - scraper - INFO - ---
-2024-08-24 17:20:53,045 - scraper - INFO - Link: https://www.youtube.com/watch?v=OjMPJVmXxV8
-2024-08-24 17:20:53,045 - scraper - INFO - Title: Canceling | ContraPoints
-2024-08-24 17:20:53,045 - scraper - INFO - Duration String: 1:40:28
-2024-08-24 17:20:53,045 - scraper - INFO - Duration: 1:40:28
-2024-08-24 17:20:53,045 - scraper - INFO - View Time: 5.7M views
-4 years ago
-2024-08-24 17:20:53,045 - scraper - INFO - Views: 5700000
-2024-08-24 17:20:53,045 - scraper - INFO - Date: 2020-08-25 17:20:53.022532
-2024-08-24 17:20:53,083 - scraper - INFO - LOGGING for vignette: 49:07
-Opulence | ContraPoints
-3.5M views
-4 years ago
-2024-08-24 17:20:53,083 - scraper - INFO - ---
-2024-08-24 17:20:53,083 - scraper - INFO - Link: https://www.youtube.com/watch?v=jD-PbF3ywGo
-2024-08-24 17:20:53,083 - scraper - INFO - Title: Opulence | ContraPoints
-2024-08-24 17:20:53,083 - scraper - INFO - Duration String: 49:07
-2024-08-24 17:20:53,083 - scraper - INFO - Duration: 0:49:07
-2024-08-24 17:20:53,083 - scraper - INFO - View Time: 3.5M views
-4 years ago
-2024-08-24 17:20:53,083 - scraper - INFO - Views: 3500000
-2024-08-24 17:20:53,083 - scraper - INFO - Date: 2020-08-25 17:20:53.064341
-2024-08-24 17:20:53,120 - scraper - INFO - LOGGING for vignette: 30:35
-Men | ContraPoints
-4.4M views
-5 years ago
-2024-08-24 17:20:53,120 - scraper - INFO - ---
-2024-08-24 17:20:53,120 - scraper - INFO - Link: https://www.youtube.com/watch?v=S1xxcKCGljY
-2024-08-24 17:20:53,120 - scraper - INFO - Title: Men | ContraPoints
-2024-08-24 17:20:53,120 - scraper - INFO - Duration String: 30:35
-2024-08-24 17:20:53,120 - scraper - INFO - Duration: 0:30:35
-2024-08-24 17:20:53,120 - scraper - INFO - View Time: 4.4M views
-5 years ago
-2024-08-24 17:20:53,120 - scraper - INFO - Views: 4400000
-2024-08-24 17:20:53,120 - scraper - INFO - Date: 2019-08-26 17:20:53.101566
-2024-08-24 17:20:53,155 - scraper - INFO - LOGGING for vignette: 34:44
-"Transtrenders" | ContraPoints
-3.1M views
-5 years ago
-2024-08-24 17:20:53,155 - scraper - INFO - ---
-2024-08-24 17:20:53,155 - scraper - INFO - Link: https://www.youtube.com/watch?v=EdvM_pRfuFM
-2024-08-24 17:20:53,155 - scraper - INFO - Title: "Transtrenders" | ContraPoints
-2024-08-24 17:20:53,155 - scraper - INFO - Duration String: 34:44
-2024-08-24 17:20:53,155 - scraper - INFO - Duration: 0:34:44
-2024-08-24 17:20:53,155 - scraper - INFO - View Time: 3.1M views
-5 years ago
-2024-08-24 17:20:53,155 - scraper - INFO - Views: 3100000
-2024-08-24 17:20:53,155 - scraper - INFO - Date: 2019-08-26 17:20:53.137253
-2024-08-24 17:20:53,197 - scraper - INFO - LOGGING for vignette: 30:52
-Beauty | ContraPoints
-3.4M views
-5 years ago
-2024-08-24 17:20:53,197 - scraper - INFO - ---
-2024-08-24 17:20:53,197 - scraper - INFO - Link: https://www.youtube.com/watch?v=n9mspMJTNEY
-2024-08-24 17:20:53,197 - scraper - INFO - Title: Beauty | ContraPoints
-2024-08-24 17:20:53,197 - scraper - INFO - Duration String: 30:52
-2024-08-24 17:20:53,197 - scraper - INFO - Duration: 0:30:52
-2024-08-24 17:20:53,197 - scraper - INFO - View Time: 3.4M views
-5 years ago
-2024-08-24 17:20:53,197 - scraper - INFO - Views: 3400000
-2024-08-24 17:20:53,197 - scraper - INFO - Date: 2019-08-26 17:20:53.174539
-2024-08-24 17:20:53,232 - scraper - INFO - LOGGING for vignette: 33:49
-Gender Critical | ContraPoints
-4.1M views
-5 years ago
-2024-08-24 17:20:53,232 - scraper - INFO - ---
-2024-08-24 17:20:53,232 - scraper - INFO - Link: https://www.youtube.com/watch?v=1pTPuoGjQsI
-2024-08-24 17:20:53,232 - scraper - INFO - Title: Gender Critical | ContraPoints
-2024-08-24 17:20:53,232 - scraper - INFO - Duration String: 33:49
-2024-08-24 17:20:53,233 - scraper - INFO - Duration: 0:33:49
-2024-08-24 17:20:53,233 - scraper - INFO - View Time: 4.1M views
-5 years ago
-2024-08-24 17:20:53,233 - scraper - INFO - Views: 4099999
-2024-08-24 17:20:53,233 - scraper - INFO - Date: 2019-08-26 17:20:53.214919
-2024-08-24 17:20:53,268 - scraper - INFO - LOGGING for vignette: 29:22
-The Darkness | ContraPoints
-2.2M views
-5 years ago
-2024-08-24 17:20:53,268 - scraper - INFO - ---
-2024-08-24 17:20:53,268 - scraper - INFO - Link: https://www.youtube.com/watch?v=qtj7LDYaufM
-2024-08-24 17:20:53,268 - scraper - INFO - Title: The Darkness | ContraPoints
-2024-08-24 17:20:53,268 - scraper - INFO - Duration String: 29:22
-2024-08-24 17:20:53,268 - scraper - INFO - Duration: 0:29:22
-2024-08-24 17:20:53,268 - scraper - INFO - View Time: 2.2M views
-5 years ago
-2024-08-24 17:20:53,268 - scraper - INFO - Views: 2200000
-2024-08-24 17:20:53,268 - scraper - INFO - Date: 2019-08-26 17:20:53.249902
-2024-08-24 17:20:53,304 - scraper - INFO - LOGGING for vignette: 44:53
-"Are Traps Gay?" | ContraPoints
-3.2M views
-5 years ago
-2024-08-24 17:20:53,304 - scraper - INFO - ---
-2024-08-24 17:20:53,304 - scraper - INFO - Link: https://www.youtube.com/watch?v=PbBzhqJK3bg
-2024-08-24 17:20:53,304 - scraper - INFO - Title: "Are Traps Gay?" | ContraPoints
-2024-08-24 17:20:53,304 - scraper - INFO - Duration String: 44:53
-2024-08-24 17:20:53,304 - scraper - INFO - Duration: 0:44:53
-2024-08-24 17:20:53,304 - scraper - INFO - View Time: 3.2M views
-5 years ago
-2024-08-24 17:20:53,304 - scraper - INFO - Views: 3200000
-2024-08-24 17:20:53,304 - scraper - INFO - Date: 2019-08-26 17:20:53.285416
-2024-08-24 17:20:53,345 - scraper - INFO - LOGGING for vignette: 24:52
-The Apocalypse | ContraPoints
-1.6M views
-5 years ago
-2024-08-24 17:20:53,345 - scraper - INFO - ---
-2024-08-24 17:20:53,345 - scraper - INFO - Link: https://www.youtube.com/watch?v=S6GodWn4XMM
-2024-08-24 17:20:53,345 - scraper - INFO - Title: The Apocalypse | ContraPoints
-2024-08-24 17:20:53,345 - scraper - INFO - Duration String: 24:52
-2024-08-24 17:20:53,345 - scraper - INFO - Duration: 0:24:52
-2024-08-24 17:20:53,345 - scraper - INFO - View Time: 1.6M views
-5 years ago
-2024-08-24 17:20:53,345 - scraper - INFO - Views: 1600000
-2024-08-24 17:20:53,345 - scraper - INFO - Date: 2019-08-26 17:20:53.322372
-2024-08-24 17:20:53,383 - scraper - INFO - LOGGING for vignette: 31:56
-Pronouns | ContraPoints
-2.9M views
-5 years ago
-2024-08-24 17:20:53,383 - scraper - INFO - ---
-2024-08-24 17:20:53,383 - scraper - INFO - Link: https://www.youtube.com/watch?v=9bbINLWtMKI
-2024-08-24 17:20:53,383 - scraper - INFO - Title: Pronouns | ContraPoints
-2024-08-24 17:20:53,383 - scraper - INFO - Duration String: 31:56
-2024-08-24 17:20:53,383 - scraper - INFO - Duration: 0:31:56
-2024-08-24 17:20:53,383 - scraper - INFO - View Time: 2.9M views
-5 years ago
-2024-08-24 17:20:53,383 - scraper - INFO - Views: 2900000
-2024-08-24 17:20:53,383 - scraper - INFO - Date: 2019-08-26 17:20:53.363635
-2024-08-24 17:20:53,420 - scraper - INFO - LOGGING for vignette: 21:23
-The Aesthetic | ContraPoints
-1.7M views
-5 years ago
-2024-08-24 17:20:53,420 - scraper - INFO - ---
-2024-08-24 17:20:53,420 - scraper - INFO - Link: https://www.youtube.com/watch?v=z1afqR5QkDM
-2024-08-24 17:20:53,420 - scraper - INFO - Title: The Aesthetic | ContraPoints
-2024-08-24 17:20:53,420 - scraper - INFO - Duration String: 21:23
-2024-08-24 17:20:53,420 - scraper - INFO - Duration: 0:21:23
-2024-08-24 17:20:53,420 - scraper - INFO - View Time: 1.7M views
-5 years ago
-2024-08-24 17:20:53,420 - scraper - INFO - Views: 1700000
-2024-08-24 17:20:53,420 - scraper - INFO - Date: 2019-08-26 17:20:53.401860
-2024-08-24 17:20:53,457 - scraper - INFO - LOGGING for vignette: 35:05
-Incels | ContraPoints
-6M views
-6 years ago
-2024-08-24 17:20:53,457 - scraper - INFO - ---
-2024-08-24 17:20:53,457 - scraper - INFO - Link: https://www.youtube.com/watch?v=fD2briZ6fB0
-2024-08-24 17:20:53,457 - scraper - INFO - Title: Incels | ContraPoints
-2024-08-24 17:20:53,457 - scraper - INFO - Duration String: 35:05
-2024-08-24 17:20:53,457 - scraper - INFO - Duration: 0:35:05
-2024-08-24 17:20:53,457 - scraper - INFO - View Time: 6M views
-6 years ago
-2024-08-24 17:20:53,457 - scraper - INFO - Views: 6000000
-2024-08-24 17:20:53,457 - scraper - INFO - Date: 2018-08-26 17:20:53.438882
-2024-08-24 17:20:53,492 - scraper - INFO - LOGGING for vignette: 23:32
-The West | ContraPoints
-2.3M views
-6 years ago
-2024-08-24 17:20:53,492 - scraper - INFO - ---
-2024-08-24 17:20:53,492 - scraper - INFO - Link: https://www.youtube.com/watch?v=hyaftqCORT4
-2024-08-24 17:20:53,492 - scraper - INFO - Title: The West | ContraPoints
-2024-08-24 17:20:53,492 - scraper - INFO - Duration String: 23:32
-2024-08-24 17:20:53,492 - scraper - INFO - Duration: 0:23:32
-2024-08-24 17:20:53,492 - scraper - INFO - View Time: 2.3M views
-6 years ago
-2024-08-24 17:20:53,492 - scraper - INFO - Views: 2300000
-2024-08-24 17:20:53,492 - scraper - INFO - Date: 2018-08-26 17:20:53.474442
-2024-08-24 17:20:53,531 - scraper - INFO - LOGGING for vignette: 21:08
-Tiffany Tumbles | ContraPoints
-2M views
-6 years ago
-2024-08-24 17:20:53,532 - scraper - INFO - ---
-2024-08-24 17:20:53,532 - scraper - INFO - Link: https://www.youtube.com/watch?v=j1dJ8whOM8E
-2024-08-24 17:20:53,532 - scraper - INFO - Title: Tiffany Tumbles | ContraPoints
-2024-08-24 17:20:53,532 - scraper - INFO - Duration String: 21:08
-2024-08-24 17:20:53,532 - scraper - INFO - Duration: 0:21:08
-2024-08-24 17:20:53,532 - scraper - INFO - View Time: 2M views
-6 years ago
-2024-08-24 17:20:53,532 - scraper - INFO - Views: 2000000
-2024-08-24 17:20:53,532 - scraper - INFO - Date: 2018-08-26 17:20:53.513863
-2024-08-24 17:20:53,567 - scraper - INFO - LOGGING for vignette: 28:20
-Jordan Peterson | ContraPoints
-4.6M views
-6 years ago
-2024-08-24 17:20:53,567 - scraper - INFO - ---
-2024-08-24 17:20:53,567 - scraper - INFO - Link: https://www.youtube.com/watch?v=4LqZdkkBDas
-2024-08-24 17:20:53,567 - scraper - INFO - Title: Jordan Peterson | ContraPoints
-2024-08-24 17:20:53,567 - scraper - INFO - Duration String: 28:20
-2024-08-24 17:20:53,567 - scraper - INFO - Duration: 0:28:20
-2024-08-24 17:20:53,568 - scraper - INFO - View Time: 4.6M views
-6 years ago
-2024-08-24 17:20:53,568 - scraper - INFO - Views: 4600000
-2024-08-24 17:20:53,568 - scraper - INFO - Date: 2018-08-26 17:20:53.549524
-2024-08-24 17:20:53,604 - scraper - INFO - LOGGING for vignette: 19:56
-What's Wrong with Capitalism (Part 2) | ContraPoints
-1.5M views
-6 years ago
-2024-08-24 17:20:53,604 - scraper - INFO - ---
-2024-08-24 17:20:53,604 - scraper - INFO - Link: https://www.youtube.com/watch?v=AR7ryg1w_IQ
-2024-08-24 17:20:53,604 - scraper - INFO - Title: What's Wrong with Capitalism (Part 2) | ContraPoints
-2024-08-24 17:20:53,604 - scraper - INFO - Duration String: 19:56
-2024-08-24 17:20:53,604 - scraper - INFO - Duration: 0:19:56
-2024-08-24 17:20:53,604 - scraper - INFO - View Time: 1.5M views
-6 years ago
-2024-08-24 17:20:53,604 - scraper - INFO - Views: 1500000
-2024-08-24 17:20:53,604 - scraper - INFO - Date: 2018-08-26 17:20:53.586216
-2024-08-24 17:20:53,640 - scraper - INFO - LOGGING for vignette: 21:11
-America: Still Racist | ContraPoints
-1.1M views
-6 years ago
-2024-08-24 17:20:53,640 - scraper - INFO - ---
-2024-08-24 17:20:53,640 - scraper - INFO - Link: https://www.youtube.com/watch?v=GWwiUIVpmNY
-2024-08-24 17:20:53,640 - scraper - INFO - Title: America: Still Racist | ContraPoints
-2024-08-24 17:20:53,640 - scraper - INFO - Duration String: 21:11
-2024-08-24 17:20:53,640 - scraper - INFO - Duration: 0:21:11
-2024-08-24 17:20:53,640 - scraper - INFO - View Time: 1.1M views
-6 years ago
-2024-08-24 17:20:53,640 - scraper - INFO - Views: 1100000
-2024-08-24 17:20:53,640 - scraper - INFO - Date: 2018-08-26 17:20:53.622294
-2024-08-24 17:20:53,681 - scraper - INFO - LOGGING for vignette: 48:54
-Autogynephilia | ContraPoints
-1.8M views
-6 years ago
-2024-08-24 17:20:53,681 - scraper - INFO - ---
-2024-08-24 17:20:53,681 - scraper - INFO - Link: https://www.youtube.com/watch?v=6czRFLs5JQo
-2024-08-24 17:20:53,681 - scraper - INFO - Title: Autogynephilia | ContraPoints
-2024-08-24 17:20:53,681 - scraper - INFO - Duration String: 48:54
-2024-08-24 17:20:53,681 - scraper - INFO - Duration: 0:48:54
-2024-08-24 17:20:53,681 - scraper - INFO - View Time: 1.8M views
-6 years ago
-2024-08-24 17:20:53,681 - scraper - INFO - Views: 1800000
-2024-08-24 17:20:53,681 - scraper - INFO - Date: 2018-08-26 17:20:53.662861
-2024-08-24 17:20:53,718 - scraper - INFO - LOGGING for vignette: 19:07
-What's Wrong with Capitalism (Part 1) | ContraPoints
+2024-09-06 14:11:17,044 - scraper - INFO - Views: 758000
+2024-09-06 14:11:17,044 - scraper - INFO - Date: 2024-04-09 14:11:17.021461
+2024-09-06 14:11:17,058 - utils - ERROR - Invalid duration format . Expected MM:SS, HH:MM:SS, or DD:HH:MM:SS.
+2024-09-06 14:11:17,085 - scraper - INFO - LOGGING for vignette: Family time ends in freak accident | The Crooked Swamp Cave Incident
+739K views
+5 months ago
+2024-09-06 14:11:17,085 - scraper - INFO - ---
+2024-09-06 14:11:17,085 - scraper - INFO - Link: https://www.youtube.com/watch?v=pMYGM2y0fAc
+2024-09-06 14:11:17,085 - scraper - INFO - Title: Family time ends in freak accident | The Crooked Swamp Cave Incident
+2024-09-06 14:11:17,085 - scraper - INFO - Duration String: 
+2024-09-06 14:11:17,085 - scraper - INFO - Duration: 0:00:00
+2024-09-06 14:11:17,085 - scraper - INFO - View Time: 739K views
+5 months ago
+2024-09-06 14:11:17,085 - scraper - INFO - Views: 739000
+2024-09-06 14:11:17,085 - scraper - INFO - Date: 2024-04-09 14:11:17.066181
+2024-09-06 14:11:17,100 - utils - ERROR - Invalid duration format . Expected MM:SS, HH:MM:SS, or DD:HH:MM:SS.
+2024-09-06 14:11:17,128 - scraper - INFO - LOGGING for vignette: Dam sucks diver inside | The Lake Oliver Dam Accident
+895K views
+5 months ago
+2024-09-06 14:11:17,128 - scraper - INFO - ---
+2024-09-06 14:11:17,128 - scraper - INFO - Link: https://www.youtube.com/watch?v=PU23-bGTnkI
+2024-09-06 14:11:17,128 - scraper - INFO - Title: Dam sucks diver inside | The Lake Oliver Dam Accident
+2024-09-06 14:11:17,128 - scraper - INFO - Duration String: 
+2024-09-06 14:11:17,128 - scraper - INFO - Duration: 0:00:00
+2024-09-06 14:11:17,128 - scraper - INFO - View Time: 895K views
+5 months ago
+2024-09-06 14:11:17,128 - scraper - INFO - Views: 895000
+2024-09-06 14:11:17,128 - scraper - INFO - Date: 2024-04-09 14:11:17.108789
+2024-09-06 14:11:17,153 - utils - ERROR - Invalid duration format . Expected MM:SS, HH:MM:SS, or DD:HH:MM:SS.
+2024-09-06 14:11:17,186 - scraper - INFO - LOGGING for vignette: Cave divers lost deep underground | The Kalimba Cave Tragedy
+677K views
+6 months ago
+2024-09-06 14:11:17,186 - scraper - INFO - ---
+2024-09-06 14:11:17,186 - scraper - INFO - Link: https://www.youtube.com/watch?v=1e0zt8L3yKs
+2024-09-06 14:11:17,186 - scraper - INFO - Title: Cave divers lost deep underground | The Kalimba Cave Tragedy
+2024-09-06 14:11:17,186 - scraper - INFO - Duration String: 
+2024-09-06 14:11:17,186 - scraper - INFO - Duration: 0:00:00
+2024-09-06 14:11:17,186 - scraper - INFO - View Time: 677K views
+6 months ago
+2024-09-06 14:11:17,186 - scraper - INFO - Views: 677000
+2024-09-06 14:11:17,186 - scraper - INFO - Date: 2024-03-10 14:11:17.166937
+2024-09-06 14:11:17,247 - scraper - INFO - LOGGING for vignette: 13:57
+Cave diver suffers alone for weeks | The Sterkfontein Cave Tragedy
+813K views
+6 months ago
+2024-09-06 14:11:17,247 - scraper - INFO - ---
+2024-09-06 14:11:17,247 - scraper - INFO - Link: https://www.youtube.com/watch?v=o8xajvLro_8
+2024-09-06 14:11:17,247 - scraper - INFO - Title: Cave diver suffers alone for weeks | The Sterkfontein Cave Tragedy
+2024-09-06 14:11:17,247 - scraper - INFO - Duration String: 13:57
+2024-09-06 14:11:17,247 - scraper - INFO - Duration: 0:13:57
+2024-09-06 14:11:17,247 - scraper - INFO - View Time: 813K views
+6 months ago
+2024-09-06 14:11:17,247 - scraper - INFO - Views: 813000
+2024-09-06 14:11:17,247 - scraper - INFO - Date: 2024-03-10 14:11:17.221210
+2024-09-06 14:11:17,333 - scraper - INFO - LOGGING for vignette: 23:24
+Severed lifeline leaves divers trapped at 500 feet | The Wildrake Diving Accident
+703K views
+7 months ago
+2024-09-06 14:11:17,333 - scraper - INFO - ---
+2024-09-06 14:11:17,333 - scraper - INFO - Link: https://www.youtube.com/watch?v=vZqNgxRj-g0
+2024-09-06 14:11:17,333 - scraper - INFO - Title: Severed lifeline leaves divers trapped at 500 feet | The Wildrake Diving Accident
+2024-09-06 14:11:17,333 - scraper - INFO - Duration String: 23:24
+2024-09-06 14:11:17,333 - scraper - INFO - Duration: 0:23:24
+2024-09-06 14:11:17,333 - scraper - INFO - View Time: 703K views
+7 months ago
+2024-09-06 14:11:17,333 - scraper - INFO - Views: 703000
+2024-09-06 14:11:17,333 - scraper - INFO - Date: 2024-02-09 14:11:17.306143
+2024-09-06 14:11:17,387 - scraper - INFO - LOGGING for vignette: 10:34
+Fatal mistake costs 192 lives | The Daegu Subway Disaster
+108K views
+8 months ago
+2024-09-06 14:11:17,387 - scraper - INFO - ---
+2024-09-06 14:11:17,387 - scraper - INFO - Link: https://www.youtube.com/watch?v=blUZoPMllZ4
+2024-09-06 14:11:17,387 - scraper - INFO - Title: Fatal mistake costs 192 lives | The Daegu Subway Disaster
+2024-09-06 14:11:17,387 - scraper - INFO - Duration String: 10:34
+2024-09-06 14:11:17,387 - scraper - INFO - Duration: 0:10:34
+2024-09-06 14:11:17,387 - scraper - INFO - View Time: 108K views
+8 months ago
+2024-09-06 14:11:17,387 - scraper - INFO - Views: 108000
+2024-09-06 14:11:17,387 - scraper - INFO - Date: 2024-01-10 14:11:17.364895
+2024-09-06 14:11:17,445 - scraper - INFO - LOGGING for vignette: 10:47
+Cave diving disaster with 4 minutes of air | The Shaft Sinkhole Diving Tragedy
+910K views
+9 months ago
+2024-09-06 14:11:17,445 - scraper - INFO - ---
+2024-09-06 14:11:17,445 - scraper - INFO - Link: https://www.youtube.com/watch?v=C92VmxGv8LM
+2024-09-06 14:11:17,445 - scraper - INFO - Title: Cave diving disaster with 4 minutes of air | The Shaft Sinkhole Diving Tragedy
+2024-09-06 14:11:17,445 - scraper - INFO - Duration String: 10:47
+2024-09-06 14:11:17,446 - scraper - INFO - Duration: 0:10:47
+2024-09-06 14:11:17,446 - scraper - INFO - View Time: 910K views
+9 months ago
+2024-09-06 14:11:17,446 - scraper - INFO - Views: 910000
+2024-09-06 14:11:17,446 - scraper - INFO - Date: 2023-12-11 14:11:17.420970
+2024-09-06 14:11:17,501 - scraper - INFO - LOGGING for vignette: 16:12
+Caver trapped forever | The Nutty Putty Tragedy
+9.3M views
+9 months ago
+2024-09-06 14:11:17,501 - scraper - INFO - ---
+2024-09-06 14:11:17,501 - scraper - INFO - Link: https://www.youtube.com/watch?v=o-TaF2DbaWw
+2024-09-06 14:11:17,501 - scraper - INFO - Title: Caver trapped forever | The Nutty Putty Tragedy
+2024-09-06 14:11:17,501 - scraper - INFO - Duration String: 16:12
+2024-09-06 14:11:17,501 - scraper - INFO - Duration: 0:16:12
+2024-09-06 14:11:17,501 - scraper - INFO - View Time: 9.3M views
+9 months ago
+2024-09-06 14:11:17,501 - scraper - INFO - Views: 9300000
+2024-09-06 14:11:17,501 - scraper - INFO - Date: 2023-12-11 14:11:17.478630
+2024-09-06 14:11:17,556 - scraper - INFO - LOGGING for vignette: 9:05
+Teen mysteriously goes missing at school | Kendrick Johnson’s Tragic Death
+123K views
+10 months ago
+2024-09-06 14:11:17,556 - scraper - INFO - ---
+2024-09-06 14:11:17,556 - scraper - INFO - Link: https://www.youtube.com/watch?v=os460t494hY
+2024-09-06 14:11:17,556 - scraper - INFO - Title: Teen mysteriously goes missing at school | Kendrick Johnson’s Tragic Death
+2024-09-06 14:11:17,556 - scraper - INFO - Duration String: 9:05
+2024-09-06 14:11:17,556 - scraper - INFO - Duration: 0:09:05
+2024-09-06 14:11:17,556 - scraper - INFO - View Time: 123K views
+10 months ago
+2024-09-06 14:11:17,556 - scraper - INFO - Views: 123000
+2024-09-06 14:11:17,556 - scraper - INFO - Date: 2023-11-11 14:11:17.530627
+2024-09-06 14:11:17,604 - scraper - INFO - LOGGING for vignette: 6:36
+5 girls trapped in a game gone WRONG | The Polish Escape Room Tragedy
+144K views
+10 months ago
+2024-09-06 14:11:17,604 - scraper - INFO - ---
+2024-09-06 14:11:17,604 - scraper - INFO - Link: https://www.youtube.com/watch?v=FlNfafICagA
+2024-09-06 14:11:17,604 - scraper - INFO - Title: 5 girls trapped in a game gone WRONG | The Polish Escape Room Tragedy
+2024-09-06 14:11:17,604 - scraper - INFO - Duration String: 6:36
+2024-09-06 14:11:17,604 - scraper - INFO - Duration: 0:06:36
+2024-09-06 14:11:17,604 - scraper - INFO - View Time: 144K views
+10 months ago
+2024-09-06 14:11:17,604 - scraper - INFO - Views: 144000
+2024-09-06 14:11:17,604 - scraper - INFO - Date: 2023-11-11 14:11:17.582419
+2024-09-06 14:11:17,662 - scraper - INFO - LOGGING for vignette: 8:15
+A cave diver’s fatal mistake | The Goss Canyon Tragedy
+411K views
+11 months ago
+2024-09-06 14:11:17,662 - scraper - INFO - ---
+2024-09-06 14:11:17,662 - scraper - INFO - Link: https://www.youtube.com/watch?v=iP4SAKeVBz4
+2024-09-06 14:11:17,662 - scraper - INFO - Title: A cave diver’s fatal mistake | The Goss Canyon Tragedy
+2024-09-06 14:11:17,662 - scraper - INFO - Duration String: 8:15
+2024-09-06 14:11:17,662 - scraper - INFO - Duration: 0:08:15
+2024-09-06 14:11:17,662 - scraper - INFO - View Time: 411K views
+11 months ago
+2024-09-06 14:11:17,662 - scraper - INFO - Views: 411000
+2024-09-06 14:11:17,662 - scraper - INFO - Date: 2023-10-12 14:11:17.638493
+2024-09-06 14:11:17,723 - scraper - INFO - LOGGING for vignette: 15:00
+Students abandoned on a sinking ship | The Sewol Ferry Accident
+518K views
+11 months ago
+2024-09-06 14:11:17,723 - scraper - INFO - ---
+2024-09-06 14:11:17,723 - scraper - INFO - Link: https://www.youtube.com/watch?v=uNT-jK2_hNI
+2024-09-06 14:11:17,723 - scraper - INFO - Title: Students abandoned on a sinking ship | The Sewol Ferry Accident
+2024-09-06 14:11:17,723 - scraper - INFO - Duration String: 15:00
+2024-09-06 14:11:17,723 - scraper - INFO - Duration: 0:15:00
+2024-09-06 14:11:17,723 - scraper - INFO - View Time: 518K views
+11 months ago
+2024-09-06 14:11:17,723 - scraper - INFO - Views: 518000
+2024-09-06 14:11:17,723 - scraper - INFO - Date: 2023-10-12 14:11:17.700353
+2024-09-06 14:11:17,772 - scraper - INFO - LOGGING for vignette: 8:58
+Drowned in the Cave of Death | The Gollum Cave Incident
 2.4M views
-6 years ago
-2024-08-24 17:20:53,718 - scraper - INFO - ---
-2024-08-24 17:20:53,718 - scraper - INFO - Link: https://www.youtube.com/watch?v=gJW4-cOZt8A
-2024-08-24 17:20:53,718 - scraper - INFO - Title: What's Wrong with Capitalism (Part 1) | ContraPoints
-2024-08-24 17:20:53,718 - scraper - INFO - Duration String: 19:07
-2024-08-24 17:20:53,718 - scraper - INFO - Duration: 0:19:07
-2024-08-24 17:20:53,718 - scraper - INFO - View Time: 2.4M views
-6 years ago
-2024-08-24 17:20:53,718 - scraper - INFO - Views: 2400000
-2024-08-24 17:20:53,718 - scraper - INFO - Date: 2018-08-26 17:20:53.699951
-2024-08-24 17:20:53,754 - scraper - INFO - LOGGING for vignette: 19:23
-Violence | ContraPoints
-928K views
-6 years ago
-2024-08-24 17:20:53,754 - scraper - INFO - ---
-2024-08-24 17:20:53,754 - scraper - INFO - Link: https://www.youtube.com/watch?v=lmsoVFCUN3Q
-2024-08-24 17:20:53,754 - scraper - INFO - Title: Violence | ContraPoints
-2024-08-24 17:20:53,754 - scraper - INFO - Duration String: 19:23
-2024-08-24 17:20:53,754 - scraper - INFO - Duration: 0:19:23
-2024-08-24 17:20:53,754 - scraper - INFO - View Time: 928K views
-6 years ago
-2024-08-24 17:20:53,754 - scraper - INFO - Views: 928000
-2024-08-24 17:20:53,754 - scraper - INFO - Date: 2018-08-26 17:20:53.735638
-2024-08-24 17:20:53,794 - scraper - INFO - LOGGING for vignette: 23:06
-Degeneracy | ContraPoints
-977K views
-6 years ago
-2024-08-24 17:20:53,794 - scraper - INFO - ---
-2024-08-24 17:20:53,794 - scraper - INFO - Link: https://www.youtube.com/watch?v=9BlNGZunYM8
-2024-08-24 17:20:53,794 - scraper - INFO - Title: Degeneracy | ContraPoints
-2024-08-24 17:20:53,794 - scraper - INFO - Duration String: 23:06
-2024-08-24 17:20:53,794 - scraper - INFO - Duration: 0:23:06
-2024-08-24 17:20:53,794 - scraper - INFO - View Time: 977K views
-6 years ago
-2024-08-24 17:20:53,794 - scraper - INFO - Views: 977000
-2024-08-24 17:20:53,794 - scraper - INFO - Date: 2018-08-26 17:20:53.773730
-2024-08-24 17:20:53,840 - scraper - INFO - LOGGING for vignette: 14:02
-The Left | ContraPoints
-1.8M views
-6 years ago
-2024-08-24 17:20:53,840 - scraper - INFO - ---
-2024-08-24 17:20:53,840 - scraper - INFO - Link: https://www.youtube.com/watch?v=QuN6GfUix7c
-2024-08-24 17:20:53,840 - scraper - INFO - Title: The Left | ContraPoints
-2024-08-24 17:20:53,840 - scraper - INFO - Duration String: 14:02
-2024-08-24 17:20:53,840 - scraper - INFO - Duration: 0:14:02
-2024-08-24 17:20:53,840 - scraper - INFO - View Time: 1.8M views
-6 years ago
-2024-08-24 17:20:53,840 - scraper - INFO - Views: 1800000
-2024-08-24 17:20:53,840 - scraper - INFO - Date: 2018-08-26 17:20:53.815499
-2024-08-24 17:20:53,881 - scraper - INFO - LOGGING for vignette: 23:34
-Decrypting the Alt-Right: How to Recognize a F@scist | ContraPoints
-2.9M views
-6 years ago
-2024-08-24 17:20:53,881 - scraper - INFO - ---
-2024-08-24 17:20:53,881 - scraper - INFO - Link: https://www.youtube.com/watch?v=Sx4BVGPkdzk
-2024-08-24 17:20:53,881 - scraper - INFO - Title: Decrypting the Alt-Right: How to Recognize a F@scist | ContraPoints
-2024-08-24 17:20:53,881 - scraper - INFO - Duration String: 23:34
-2024-08-24 17:20:53,881 - scraper - INFO - Duration: 0:23:34
-2024-08-24 17:20:53,882 - scraper - INFO - View Time: 2.9M views
-6 years ago
-2024-08-24 17:20:53,882 - scraper - INFO - Views: 2900000
-2024-08-24 17:20:53,882 - scraper - INFO - Date: 2018-08-26 17:20:53.860428
-2024-08-24 17:20:53,972 - __main__ - INFO - Scraped 32 videos
+1 year ago
+2024-09-06 14:11:17,772 - scraper - INFO - ---
+2024-09-06 14:11:17,772 - scraper - INFO - Link: https://www.youtube.com/watch?v=SAoVoiZ8MCo
+2024-09-06 14:11:17,772 - scraper - INFO - Title: Drowned in the Cave of Death | The Gollum Cave Incident
+2024-09-06 14:11:17,772 - scraper - INFO - Duration String: 8:58
+2024-09-06 14:11:17,772 - scraper - INFO - Duration: 0:08:58
+2024-09-06 14:11:17,772 - scraper - INFO - View Time: 2.4M views
+1 year ago
+2024-09-06 14:11:17,772 - scraper - INFO - Views: 2400000
+2024-09-06 14:11:17,772 - scraper - INFO - Date: 2023-09-07 14:11:17.748924
+2024-09-06 14:11:17,827 - scraper - INFO - LOGGING for vignette: 12:56
+Family time in the cockpit kills 75 passengers | The Aeroflot 593 Plane Crash
+1.1M views
+1 year ago
+2024-09-06 14:11:17,827 - scraper - INFO - ---
+2024-09-06 14:11:17,827 - scraper - INFO - Link: https://www.youtube.com/watch?v=vO-DfDox6Uk
+2024-09-06 14:11:17,827 - scraper - INFO - Title: Family time in the cockpit kills 75 passengers | The Aeroflot 593 Plane Crash
+2024-09-06 14:11:17,827 - scraper - INFO - Duration String: 12:56
+2024-09-06 14:11:17,827 - scraper - INFO - Duration: 0:12:56
+2024-09-06 14:11:17,827 - scraper - INFO - View Time: 1.1M views
+1 year ago
+2024-09-06 14:11:17,827 - scraper - INFO - Views: 1100000
+2024-09-06 14:11:17,827 - scraper - INFO - Date: 2023-09-07 14:11:17.801477
+2024-09-06 14:11:17,882 - scraper - INFO - LOGGING for vignette: 8:13
+The heartbreaking timeline of death in a wildfire | The Lahaina Maui fire tragedy
+61K views
+1 year ago
+2024-09-06 14:11:17,882 - scraper - INFO - ---
+2024-09-06 14:11:17,882 - scraper - INFO - Link: https://www.youtube.com/watch?v=JrryAXrFSJw
+2024-09-06 14:11:17,882 - scraper - INFO - Title: The heartbreaking timeline of death in a wildfire | The Lahaina Maui fire tragedy
+2024-09-06 14:11:17,882 - scraper - INFO - Duration String: 8:13
+2024-09-06 14:11:17,882 - scraper - INFO - Duration: 0:08:13
+2024-09-06 14:11:17,882 - scraper - INFO - View Time: 61K views
+1 year ago
+2024-09-06 14:11:17,882 - scraper - INFO - Views: 61000
+2024-09-06 14:11:17,882 - scraper - INFO - Date: 2023-09-07 14:11:17.853580
+2024-09-06 14:11:17,937 - scraper - INFO - LOGGING for vignette: 15:11
+Sucked into an oil pipe | The Paria Diving Disaster
+4.5M views
+1 year ago
+2024-09-06 14:11:17,937 - scraper - INFO - ---
+2024-09-06 14:11:17,937 - scraper - INFO - Link: https://www.youtube.com/watch?v=9S7VlIN-f8Q
+2024-09-06 14:11:17,937 - scraper - INFO - Title: Sucked into an oil pipe | The Paria Diving Disaster
+2024-09-06 14:11:17,937 - scraper - INFO - Duration String: 15:11
+2024-09-06 14:11:17,938 - scraper - INFO - Duration: 0:15:11
+2024-09-06 14:11:17,938 - scraper - INFO - View Time: 4.5M views
+1 year ago
+2024-09-06 14:11:17,938 - scraper - INFO - Views: 4500000
+2024-09-06 14:11:17,938 - scraper - INFO - Date: 2023-09-07 14:11:17.914634
+2024-09-06 14:11:17,995 - scraper - INFO - LOGGING for vignette: 9:46
+LEAKED TRANSCRIPT! - Heartbreaking last words from Titan sub
+1M views
+1 year ago
+2024-09-06 14:11:17,995 - scraper - INFO - ---
+2024-09-06 14:11:17,995 - scraper - INFO - Link: https://www.youtube.com/watch?v=8MlLEkWuyLs
+2024-09-06 14:11:17,995 - scraper - INFO - Title: LEAKED TRANSCRIPT! - Heartbreaking last words from Titan sub
+2024-09-06 14:11:17,995 - scraper - INFO - Duration String: 9:46
+2024-09-06 14:11:17,995 - scraper - INFO - Duration: 0:09:46
+2024-09-06 14:11:17,996 - scraper - INFO - View Time: 1M views
+1 year ago
+2024-09-06 14:11:17,996 - scraper - INFO - Views: 1000000
+2024-09-06 14:11:17,996 - scraper - INFO - Date: 2023-09-07 14:11:17.964288
+2024-09-06 14:11:18,092 - __main__ - INFO - Scraped 26 videos

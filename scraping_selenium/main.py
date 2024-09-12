@@ -7,7 +7,7 @@ from utils import create_dataframe
 
 # Set up logging configuration
 logging.basicConfig(
-    level=logging.INFO,  # Log all levels from DEBUG and above
+    level=logging.DEBUG,  # Log all levels from DEBUG and above
     filename='project_logs.log',  # Log file path
     filemode='a',  # Append mode (use 'w' to overwrite each time)
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'  # Log format
@@ -16,9 +16,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 def main(youtube_channel):
+    logger.info(f"Scraping videos from {youtube_channel}")
     driver = webdriver.Firefox()
     url = f"https://www.youtube.com/{youtube_channel}/videos"
     try:
+        logger.info("Scraping videos")
         videos = scrape_videos(driver, url=url)
         df = create_dataframe(videos)
         df.to_excel("results/info_youtuber.xlsx")
