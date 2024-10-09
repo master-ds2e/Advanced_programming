@@ -2,8 +2,9 @@ The database is available on
 [kaggle](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots).
 
 
-You can find many more, and the notebooks of people analysing them.
+You can find many more datasets, and the notebooks of people analysing them.
 
+There is also a pandas class you can try: [here](https://www.kaggle.com/learn/pandas)
 or create your own:
 
 You're right! Let's correct the first example to demonstrate how to create a DataFrame from a list of lists, where each inner list represents a row, and you can specify the column names separately.
